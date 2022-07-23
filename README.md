@@ -1,1 +1,1 @@
-# Pytorch-implementation-from-scratch-
+# Deep Learning Paper Implementations using PyTorch
